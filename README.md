@@ -11,3 +11,4 @@
 8. Initialize counter with 0 in constructor, and also setup a timer (setInterval) which will increment counter every 1 second.
 9. Display counter variable value bellow previously added message div.
 10. Setup a second timer (setTimeout) which will stop counter increments (cancel the first timer) after 20 seconds
+..
